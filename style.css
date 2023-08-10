@@ -1,0 +1,76 @@
+body{
+    font-family: serif;
+
+}
+div{
+    display: block;
+}
+.head > h1{
+    font-family:  "Sacramento", cursive;
+    font-size: 50px;
+}
+.head{
+    background-color: #e4f9f5;
+    position: relative;
+    padding: 200px;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif ;
+}
+.middle{
+    margin-top: 100px;
+    text-align: center;
+}
+h2{
+    color: #66bfbf;
+    font-size: 40px;
+}
+.pic1{
+    width: 100%;
+    margin: 70px 50px 0 100px;
+    text-align: left;
+    
+}
+.pic1 > h3{
+    color: #66bfbf;
+}
+.prg{
+    display: flex;
+    float: left;
+    height: 200px;
+}
+.gym{
+    display: flex;
+    float: left;
+    height: 200px;
+    width: 200px;
+}
+p{
+   font-family: 'Times New Roman', Times, serif ;
+}
+.last{
+    margin-top: 100px;
+    text-align: center;
+}
+.last > h3{
+    color: #66bfbf;
+}
+.btn{
+    margin-top: 20px;
+    width: 150px;
+    color: #ffffff;
+    font-family: "Montserrat", sans-serif;;
+    background-color: #11cdd4;
+}
+.footer{
+    text-align: center;
+    padding: 50px;
+     background-color: #e4f9f5;;
+}
+#link{
+    margin: 0px 20px 0px 20px;
+    text-decoration: none;
+    color: black;
+    font-family: "Montserrat", sans-serif;;   
+}
+
+
